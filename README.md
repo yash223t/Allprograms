@@ -1,2 +1,8 @@
-# Basic-Programming-Languages
-Basic programs in C, C++, Java, and Python
+# Basic Programming Languages Repository
+
+This repository contains simple Hello World programs in:
+
+- C
+- C++
+- Java
+- Python
